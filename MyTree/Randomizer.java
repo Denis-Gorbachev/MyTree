@@ -1,3 +1,4 @@
+package com.company;
 import java.util.Collection;
 public class Randomizer 
 {
